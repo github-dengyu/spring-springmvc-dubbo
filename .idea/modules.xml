@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/wechatsecurityweb/wechat-security-web.iml" filepath="$PROJECT_DIR$/wechatsecurityweb/wechat-security-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wechatalarm/wechatalarm.iml" filepath="$PROJECT_DIR$/wechatalarm/wechatalarm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wechatalarmapi/wechatalarmapi.iml" filepath="$PROJECT_DIR$/wechatalarmapi/wechatalarmapi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wechatalarmdomain/wechatalarmdomain.iml" filepath="$PROJECT_DIR$/wechatalarmdomain/wechatalarmdomain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wechatalarmweb/wechatalarmweb.iml" filepath="$PROJECT_DIR$/wechatalarmweb/wechatalarmweb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wechatcommon/wechatcommon.iml" filepath="$PROJECT_DIR$/wechatcommon/wechatcommon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wechatparent.iml" filepath="$PROJECT_DIR$/wechatparent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wechatsecurity/wechatsecurity.iml" filepath="$PROJECT_DIR$/wechatsecurity/wechatsecurity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wechatsecurityapi/wechatsecurityapi.iml" filepath="$PROJECT_DIR$/wechatsecurityapi/wechatsecurityapi.iml" />
+    </modules>
+  </component>
+</project>

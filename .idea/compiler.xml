@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="wechat-security-web" />
+        <module name="wechatalarm" />
+        <module name="wechatalarmapi" />
+        <module name="wechatalarmdomain" />
+        <module name="wechatalarmweb" />
+        <module name="wechatcommon" />
+        <module name="wechatsecurity" />
+        <module name="wechatsecurityapi" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="1.8">
+      <module name="wechat-security-web" target="1.7" />
+      <module name="wechatalarm" target="1.7" />
+      <module name="wechatalarmapi" target="1.7" />
+      <module name="wechatalarmdomain" target="1.7" />
+      <module name="wechatalarmweb" target="1.7" />
+      <module name="wechatcommon" target="1.7" />
+      <module name="wechatparent" target="1.7" />
+      <module name="wechatsecurity" target="1.7" />
+      <module name="wechatsecurityapi" target="1.7" />
+      <module name="wechatsecurityweb" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

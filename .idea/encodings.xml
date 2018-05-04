@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wechatalarm" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wechatalarmapi" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wechatalarmdomain" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wechatalarmweb" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wechatcommon" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wechatsecurity" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wechatsecurityapi" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wechatsecurityweb" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
